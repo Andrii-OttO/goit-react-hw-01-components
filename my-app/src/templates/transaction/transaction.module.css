@@ -1,10 +1,17 @@
-.transaction-history {
+.transactionHistory {
   border: 1px solid black;
   width: 300px;
   background: #dfdfe5;
   box-shadow: 4px 5px 20px black;
   margin: 0 auto;
   margin-bottom: 50px;
+  padding: 10px;
+}
+.transactionHistory :nth-child(odd) {
+  background-color: #ffffff;
+}
+.transactionHistory :nth-child(even) {
+  background-color: gray;
 }
 /* tr: nth-child(odd); */
 /* .trnsaction-item :nth-child(odd) {

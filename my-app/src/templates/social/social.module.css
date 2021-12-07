@@ -7,7 +7,8 @@
   box-shadow: 4px 5px 20px black;
 }
 .description {
-  justify-content: center;
+  display: grid;
+  justify-items: center;
   padding: 10px;
 }
 .stats {

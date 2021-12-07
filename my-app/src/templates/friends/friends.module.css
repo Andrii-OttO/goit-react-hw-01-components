@@ -2,6 +2,7 @@
   display: block;
   background-color: green;
   width: 15px;
+  height: 15px;
   border-radius: 50px;
 }
 .offline {
