@@ -1,0 +1,17 @@
+.statistics {
+  border: 1px solid black;
+  width: 300px;
+  background: #dfdfe5;
+  box-shadow: 4px 5px 20px black;
+  margin: 0 auto;
+}
+.statList {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.item {
+  flex-direction: column;
+  width: 100%;
+  padding: 5px;
+}

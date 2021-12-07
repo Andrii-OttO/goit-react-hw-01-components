@@ -1,0 +1,19 @@
+.profile {
+  margin: 40px auto 100px;
+  border: 1px solid black;
+  width: 300px;
+  background: #dfdfe5;
+  border-radius: 10px;
+  box-shadow: 4px 5px 20px black;
+}
+.description {
+  justify-content: center;
+  padding: 10px;
+}
+.stats {
+  display: flex;
+  padding: 0;
+  /* flex-direction: row; */
+  justify-content: space-around;
+  margin: 0 15px 20px;
+}

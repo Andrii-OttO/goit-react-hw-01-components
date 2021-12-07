@@ -1,0 +1,19 @@
+.transaction-history {
+  border: 1px solid black;
+  width: 300px;
+  background: #dfdfe5;
+  box-shadow: 4px 5px 20px black;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+/* tr: nth-child(odd); */
+/* .trnsaction-item :nth-child(odd) {
+  border: 1px solid black;
+  background-color: grey;
+} */
+/* tbody :nth-child(even) {
+  background: grey;
+}
+tbody :nth-child(odd) {
+  background: #fff;
+} */
