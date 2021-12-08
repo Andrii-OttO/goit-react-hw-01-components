@@ -1,4 +1,3 @@
-
 import Profile from "./templates/social/social"
 import profileData from "./templates/social/user.json"
 
